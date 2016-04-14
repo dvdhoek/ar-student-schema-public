@@ -31,3 +31,4 @@ describe Student, "internationalized" do
   end
 
 end
+
